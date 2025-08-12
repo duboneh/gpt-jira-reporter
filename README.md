@@ -1,3 +1,7 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Last Commit](https://img.shields.io/github/last-commit/duboneh/gpt-jira-reporter)
+![Repo Size](https://img.shields.io/github/repo-size/duboneh/gpt-jira-reporter)
+
 # GPT Jira Reporter
 
 Um assistente GPT integrado à API do Jira que gera relatórios operacionais em tempo real ou assíncronos, com interface web e suporte a comandos em linguagem natural.
