@@ -54,3 +54,11 @@ docker run -p 8501:8501 jira-gpt
 ## 📝 Licença
 
 MIT
+
+---
+
+## 📘 Referência da API
+
+Para detalhes técnicos sobre a integração com a API do Jira e uso de GPT:
+
+👉 [Veja a documentação em API_REFERENCE.md](API_REFERENCE.md)
