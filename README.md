@@ -1,3 +1,5 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://duboneh-gpt-jira-reporter.streamlit.app/)
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/duboneh/gpt-jira-reporter)
 ![Repo Size](https://img.shields.io/github/repo-size/duboneh/gpt-jira-reporter)
